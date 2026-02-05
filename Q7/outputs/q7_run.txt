@@ -1,0 +1,4 @@
+Pattern extraction complete.
+Vowels-only words: 1
+Consonants-only words: 4
+Mixed words starting with consonant: 2
