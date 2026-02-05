@@ -1,0 +1,5 @@
+Text Metrics:
+Longest word: different
+Shortest word: a
+Average word length: 4.79
+Total unique words: 12
