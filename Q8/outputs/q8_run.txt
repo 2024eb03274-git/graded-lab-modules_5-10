@@ -1,0 +1,6 @@
+Script PID: 382
+Moving files to backup directory in background...
+Started move for a.txt with PID 385
+Started move for b.txt with PID 387
+Started move for c.txt with PID 389
+All background move operations completed.
