@@ -1,0 +1,3 @@
+Directory Analysis:
+Total files: 5
+Text (.txt) files: 3

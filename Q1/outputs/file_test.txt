@@ -1,0 +1,4 @@
+File Analysis:
+Lines: 1
+Words: 7
+Characters: 32
