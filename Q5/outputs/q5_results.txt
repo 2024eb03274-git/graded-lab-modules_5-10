@@ -1,0 +1,9 @@
+Files only in dirA:
+onlyA.txt
+
+Files only in dirB:
+onlyB.txt
+
+Files present in both directories (content check):
+diff.txt : DIFFER
+file1.txt : MATCH
