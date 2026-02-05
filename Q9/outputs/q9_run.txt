@@ -1,0 +1,22 @@
+Parent PID: 434
+Child 1 started. PID=436, Parent=434
+Child 1 exiting. PID=436
+Parent PID: 434
+Child 3 started. PID=438, Parent=434
+Child 3 exiting. PID=438
+Parent PID: 434
+Child 5 started. PID=440, Parent=434
+Child 5 exiting. PID=440
+Parent PID: 434
+Child 2 started. PID=437, Parent=434
+Child 2 exiting. PID=437
+Parent PID: 434
+Child 4 started. PID=439, Parent=434
+Child 4 exiting. PID=439
+Parent PID: 434
+Parent cleaned up child PID=436 (exit status=0)
+Parent cleaned up child PID=438 (exit status=0)
+Parent cleaned up child PID=440 (exit status=0)
+Parent cleaned up child PID=437 (exit status=0)
+Parent cleaned up child PID=439 (exit status=0)
+All child processes cleaned up. No zombies remain.
