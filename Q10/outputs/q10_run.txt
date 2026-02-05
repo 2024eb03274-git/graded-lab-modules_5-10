@@ -1,0 +1,11 @@
+Parent PID: 505
+Parent will run indefinitely until it receives signals.
+Child 1 sending SIGTERM to parent (505)
+Parent PID: 505
+Parent will run indefinitely until it receives signals.
+Parent handled SIGTERM: performing cleanup task A...
+Parent handled SIGINT: performing cleanup task B...
+Parent exiting gracefully after handling all signals.
+Parent PID: 505
+Parent will run indefinitely until it receives signals.
+Child 2 sending SIGINT to parent (505)
