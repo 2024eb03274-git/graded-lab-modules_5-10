@@ -6,7 +6,7 @@ sed -i 's/\r$//' bg_move.sh
 chmod +x bg_move.sh
 ```
 I converted the script to Unix format and updated permissions so it could be executed correctly in the Linux environment.
-Screenshot: screenshots/setup.png
+Screenshot: screenshots/setup.jpg
 
 ## Command 2
 ```bash
